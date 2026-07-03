@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#3b82f6" rx="51.2"/>
+  <polygon points="256,76.8 435.2,435.2 76.8,435.2" fill="#dbeafe"/>
+  <line x1="102.4" y1="256" x2="409.6" y2="256" stroke="#ef4444" stroke-width="20.48" stroke-dasharray="30.72,15.36"/>
+  <text x="256" y="486.4" text-anchor="middle" fill="white" font-size="51.2" font-family="sans-serif">Slice</text>
+</svg>
